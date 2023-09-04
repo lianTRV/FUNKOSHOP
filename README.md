@@ -6,4 +6,4 @@ __Autores/as:__
 - Maidana 👨‍💻
 - Minicucci 👨‍💻
 - Samia 👨‍💻
-- Zarate 👨‍💻
+- Zarate 👩‍💻
